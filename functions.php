@@ -18,7 +18,7 @@ add_theme_support( 'custom-background',      array( 'default-color' => 'f9f9f9' 
 add_theme_support( 'genesis-custom-header',  array( 'width' => 960, 'height' => 90 ) );
 add_theme_support( 'genesis-footer-widgets', 3                                       );
 
-/** Add support for ditor stylesheet */
+/** Add support for Editor stylesheet */
 add_editor_style( 'style-editor.css' );
 
 /**
